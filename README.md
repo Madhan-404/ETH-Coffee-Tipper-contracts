@@ -1,5 +1,7 @@
 <h1>BUY ME A COFFEE SOLIDITY CONTRACT</h1>
-![This is an image](https://datagenetics.com/blog/march32021/title.jpg)
+
+![image](https://user-images.githubusercontent.com/83569612/170203349-6b9b15b6-fb2e-4d58-975c-24bb94e820af.png)
+
 
 This repo contains a contract that implements tipping functionality.
 
