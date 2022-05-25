@@ -1,4 +1,4 @@
-BUY ME A COFFEE SOLIDITY CONTRACT
+<h1>BUY ME A COFFEE SOLIDITY CONTRACT</h1>
 
 This repo contains a contract that implements tipping functionality.
 
@@ -11,7 +11,7 @@ GOERLI_API_KEY="your Alchemy API key"
 PRIVATE_KEY="your wallet private key"
 You can get an Alchemy RPC URL for free here.
 
-!!! Be very careful with exporting your private key !!!
+<h2>!!! Be very careful with exporting your private key !!! </h2>
 You can get your Private Key from MetaMask like this. If you have any questions or concerns about this, please find someone you trust to sanity check you!
 
 !!! Be very careful with exporting your private key !!!
